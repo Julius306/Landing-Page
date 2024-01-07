@@ -76,7 +76,7 @@ h1 {
     margin: 0;
 }
 
-button {
+.first-left button {
     background-color: #3882F6;
     font-size: 16px;
     font-weight: 700;
@@ -134,4 +134,42 @@ h2 {
 .author {
     font-weight: 700;
     text-align: right;
+}
+
+.fourth {
+    padding: 40px 200px;
+}
+
+.bluebox {
+    height: 140px;
+    background-color: #3882F6;
+    padding: 20px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.left p {
+    color: white;
+    margin: 10px 0px;
+    margin-right: 40px;
+}
+
+.call {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-bottom: 10px;
+}
+
+.bluebox button {
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    background-color: #3882F6;
+    border: white 2px solid;
+    padding: 10px 40px;
+    border-radius: 10px;
 }
