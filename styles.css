@@ -173,3 +173,12 @@ h2 {
     padding: 10px 40px;
     border-radius: 10px;
 }
+
+.footer {
+    padding: 40px 200px;
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
